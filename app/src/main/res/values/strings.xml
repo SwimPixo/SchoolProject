@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">School project</string>
+
+    <string name="ip_header_add">Zadaj IPčku</string>
+    <string name="ip_btn_search">Over IPčku</string>
+    <string name="ip_btn_map">Zobraz na mape</string>
+    <string name="ip_list_history">História vyhľadávania </string>
+    <string name="ip_list_item_searched">Vyhľadávané </string>
+
+    <string name="loading_error_again">Skúsiť znova</string>
+    <string name="list_empty">Zoznam je prázdny</string>
+
+    <string name="ip_message_show_empty_text">Najprv zadaj IPčku !</string>
+    <string name="ip_message_show_no_gps">To asi nedam :/ chybaju suradnice</string>
+    <string name="ip_message_show_no_internet">Nemáš internety :(</string>
+    <string name="ip_message_show_no_content">Nebolo možné načítať info o IPčke</string>
+    <string name="ip_message_show_no_content_again">Nebolo možné načítať info o IPčke, skúste znova neskôr</string>
+    <string name="ip_detail_show_no_valid_ip">IPčka nie je valídna !</string>
+
+    <string name="dialog_title">Informácia</string>
+    <string name="dialog_ok">Ok</string>
+
+    <string name="ip_detail_ip">IP Adresa</string>
+    <string name="ip_detail_city">Mesto</string>
+    <string name="ip_detail_region">Región</string>
+    <string name="ip_detail_country">Štát</string>
+    <string name="ip_detail_lat_long">GPS Súradnice</string>
+    <string name="ip_detail_time_zone">Časová zóna</string>
+    <string name="ip_detail_postal_code">Poštové smerovacie číslo</string>
+    <string name="ip_detail_asn">ASN</string>
+    <string name="ip_detail_org">Organizácia</string>
+</resources>

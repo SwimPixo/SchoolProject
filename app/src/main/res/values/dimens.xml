@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_base_margin_small">5dp</dimen>
+    <dimen name="activity_base_margin">16dp</dimen>
+
+    <dimen name="loading_label_padding_top">25dp</dimen>
+
+    <dimen name="global_elevation">2dp</dimen>
+    <dimen name="adapter_item_spacing">10dp</dimen>
+
+    <!-- TEXT SIZE -->
+    <dimen name="text_title_size">16sp</dimen>
+    <dimen name="text_description_size">12sp</dimen>
+</resources>

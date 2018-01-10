@@ -1,0 +1,53 @@
+#
+# generated on 2017/12/29 09:18:49
+#
+# --table-start--
+dataClass=eu.schoolproject.api.model.IpInfo
+tableName=ipinfo
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=ip
+# --field-end--
+# --field-start--
+fieldName=city
+# --field-end--
+# --field-start--
+fieldName=region
+# --field-end--
+# --field-start--
+fieldName=region_code
+# --field-end--
+# --field-start--
+fieldName=country
+# --field-end--
+# --field-start--
+fieldName=country_name
+# --field-end--
+# --field-start--
+fieldName=postal
+# --field-end--
+# --field-start--
+fieldName=latitude
+# --field-end--
+# --field-start--
+fieldName=longitude
+# --field-end--
+# --field-start--
+fieldName=timezone
+# --field-end--
+# --field-start--
+fieldName=asn
+# --field-end--
+# --field-start--
+fieldName=org
+# --field-end--
+# --field-start--
+fieldName=dateTime
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

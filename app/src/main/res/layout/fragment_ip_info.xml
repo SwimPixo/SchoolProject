@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_grey"
+    android:padding="@dimen/activity_base_margin">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/Header"
+                android:layout_marginTop="0dp"
+                android:text="@string/ip_detail_ip" />
+
+            <TextView
+                android:id="@+id/ip_detail_ip"
+                style="@style/Label"
+                tools:text="tralalala" />
+
+            <TextView
+                style="@style/Header"
+                android:text="@string/ip_detail_city" />
+
+            <TextView
+                android:id="@+id/ip_detail_city"
+                style="@style/Label"
+                tools:text="tralalala" />
+
+            <TextView
+                style="@style/Header"
+                android:text="@string/ip_detail_region" />
+
+            <TextView
+                android:id="@+id/ip_detail_region"
+                style="@style/Label"
+                tools:text="tralalala" />
+
+            <TextView
+                style="@style/Header"
+                android:text="@string/ip_detail_country" />
+
+            <TextView
+                android:id="@+id/ip_detail_country"
+                style="@style/Label"
+                tools:text="tralalala" />
+
+            <TextView
+                style="@style/Header"
+                android:text="@string/ip_detail_lat_long" />
+
+            <TextView
+                android:id="@+id/ip_detail_lat_long"
+                style="@style/Label"
+                tools:text="tralalala" />
+
+            <TextView
+                style="@style/Header"
+                android:text="@string/ip_detail_time_zone" />
+
+            <TextView
+                android:id="@+id/ip_detail_time_zone"
+                style="@style/Label"
+                tools:text="tralalala" />
+
+            <TextView
+                style="@style/Header"
+                android:text="@string/ip_detail_postal_code" />
+
+            <TextView
+                android:id="@+id/ip_detail_postal_code"
+                style="@style/Label"
+                tools:text="tralalala" />
+
+            <TextView
+                style="@style/Header"
+                android:text="@string/ip_detail_asn" />
+
+            <TextView
+                android:id="@+id/ip_detail_asn"
+                style="@style/Label"
+                tools:text="tralalala" />
+
+            <TextView
+                style="@style/Header"
+                android:text="@string/ip_detail_org" />
+
+            <TextView
+                android:id="@+id/ip_detail_org"
+                style="@style/Label"
+                tools:text="tralalala" />
+
+            <Button
+                android:id="@+id/ip_btn_map"
+                style="@style/Button"
+                android:layout_marginTop="@dimen/activity_base_margin"
+                android:text="@string/ip_btn_map" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <eu.schoolproject.util.view.LoadingView
+        android:id="@+id/loading_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

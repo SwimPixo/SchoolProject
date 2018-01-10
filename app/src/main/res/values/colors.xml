@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004992</color>
+    <color name="colorPrimaryDark">#004992</color>
+    <color name="colorAccent">#80a0c3</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="red">#ed1b2e</color>
+
+    <color name="background_grey">#f0f2f4</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent_gradient">#44000000</color>
+
+    <color name="icon_grey">#34393f</color>
+    <color name="icon_less_grey">#757575</color>
+</resources>
